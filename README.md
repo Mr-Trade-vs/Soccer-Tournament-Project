@@ -1,4 +1,3 @@
-By Stevan Andrade Becerra
 
 This project is about a soccer tournament in Java language.
 
